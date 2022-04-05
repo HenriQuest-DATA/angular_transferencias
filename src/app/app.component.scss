@@ -1,0 +1,16 @@
+header{
+  padding: 16px;
+  display: flex;
+  justify-content: space-between;
+  background-color: var(--primary);
+}
+
+a{
+  font-weight: 500;
+  color: white;
+  text-decoration: none;
+}
+
+.ativo{
+  display: none;
+}

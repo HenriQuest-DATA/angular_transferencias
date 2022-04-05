@@ -1,0 +1,39 @@
+{
+  "transferencias": [
+    {
+      "id": 1,
+      "valor": 12.9,
+      "destino": "12345-6",
+      "binding": "NuBank",
+      "data": "04/01/2022 14:20"
+    },
+    {
+      "id": 2,
+      "valor": 99.05,
+      "destino": "7891-0",
+      "binding": "NuBank",
+      "data": "03/31/2022 23:59"
+    },
+    {
+      "valor": 12,
+      "destino": "teste",
+      "binding": "NuBank",
+      "data": "2022-04-01T19:33:30.940Z",
+      "id": 3
+    },
+    {
+      "valor": 666,
+      "destino": "diabão lokão",
+      "binding": "NuBank",
+      "data": "2022-04-01T19:36:59.435Z",
+      "id": 4
+    },
+    {
+      "valor": 99,
+      "destino": "15555-6",
+      "binding": "NuBank",
+      "data": "2022-04-02T15:06:24.115Z",
+      "id": 5
+    }
+  ]
+}
